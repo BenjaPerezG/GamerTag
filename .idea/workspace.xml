@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ae7869-6e75-493a-badb-da4ed6a63bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/templates/games/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/templates/overall/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overall/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GamerTag/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GamerTag/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +63,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\templates" />
+      <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\home\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,7 +91,7 @@
       <workItem from="1567887927338" duration="90000" />
       <workItem from="1567888050027" duration="281000" />
       <workItem from="1567975338870" duration="7377000" />
-      <workItem from="1568069113838" duration="8717000" />
+      <workItem from="1568069113838" duration="12948000" />
     </task>
     <servers />
   </component>
