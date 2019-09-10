@@ -1,5 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
+from django.contrib.auth.decorators import login_required
 
 # Create your views here.
+@login_required
 def index(request):
-    return render(request, 'overall/index.html')
+    return render(request, 'games/index.html')
