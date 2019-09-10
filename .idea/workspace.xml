@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ae7869-6e75-493a-badb-da4ed6a63bb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GamerTag/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GamerTag/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamerTag/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +71,8 @@
       <updated>1566570747190</updated>
       <workItem from="1567887927338" duration="90000" />
       <workItem from="1567888050027" duration="281000" />
-      <workItem from="1567975338870" duration="6499000" />
+      <workItem from="1567975338870" duration="7377000" />
+      <workItem from="1568069113838" duration="4779000" />
     </task>
     <servers />
   </component>
