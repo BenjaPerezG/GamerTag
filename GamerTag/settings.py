@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'GamerTagDb',
         'USER': 'postgres',
-        'PASSWORD': 'lisa10195',
+        'PASSWORD': os.environ['DB_PASSWORD'],
         'HOST': 'localhost',
         'PORT': '5432'
     }

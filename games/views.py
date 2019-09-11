@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth.decorators import login_required
+from django.db import connection
 from overwatch import Overwatch
 
 overwatch = "ow"
@@ -22,3 +23,7 @@ def link_account(request, game, api_required_info):
                 return redirect('/games')
         return render(request, 'games/{}.html'.format(game))
     return redirect('/accounts/login')
+
+@login_required
+def overwatch(request):
+    return
