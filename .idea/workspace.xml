@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ae7869-6e75-493a-badb-da4ed6a63bb1" name="Default Changelist" comment="" />
+    <list default="true" id="f8ae7869-6e75-493a-badb-da4ed6a63bb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GamerTag/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,7 @@
       <workItem from="1567888050027" duration="281000" />
       <workItem from="1567975338870" duration="7377000" />
       <workItem from="1568069113838" duration="13165000" />
-      <workItem from="1568136932050" duration="15226000" />
+      <workItem from="1568136932050" duration="15715000" />
     </task>
     <servers />
   </component>
