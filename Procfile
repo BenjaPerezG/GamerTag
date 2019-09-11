@@ -1,1 +1,1 @@
-web: gunicorn GamerTag.wsgiS
+web: gunicorn GamerTag.wsgi
