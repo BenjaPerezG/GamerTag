@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ae7869-6e75-493a-badb-da4ed6a63bb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/home/templates/home/static/home/keyboard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GamerTag/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GamerTag/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overall/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/overall/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/templates/games/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/templates/games/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +37,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\home\templates\home\static\home" />
+      <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\home\templates\home" />
       <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\templates" />
       <recent name="D:\Benja\U\201920\Proyectos de ingenieria\Proyecto 2\App\GamerTag\home\templates" />
     </key>
@@ -65,7 +69,7 @@
       <workItem from="1567888050027" duration="281000" />
       <workItem from="1567975338870" duration="7377000" />
       <workItem from="1568069113838" duration="13165000" />
-      <workItem from="1568136932050" duration="7485000" />
+      <workItem from="1568136932050" duration="11733000" />
     </task>
     <servers />
   </component>
